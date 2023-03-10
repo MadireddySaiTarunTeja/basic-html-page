@@ -1,0 +1,11 @@
+
+body {
+  margin: 0px 20px;
+  --block-size: 1000px;
+}
+
+a {
+  display: inherit;
+  text-decoration: none;
+  color: unset;
+}
